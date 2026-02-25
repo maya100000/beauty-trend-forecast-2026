@@ -1,4 +1,4 @@
-# Makeup & Skincare Trend Forecast – 2026
+# Makeup & Skincare Trend Forecast - 2026
 
 **Applied Data Science | Forecasting | Streamlit | LLM + RAG**
 
